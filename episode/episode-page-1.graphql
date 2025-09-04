@@ -1,0 +1,16 @@
+# Query to Get a Specific Episode by ID
+
+This GraphQL query retrieves the details of a specific episode using its ID. The fields returned are: id, name, air_date, and episode.
+
+```
+query GetEpisodeById($id: ID!) {
+  episode(id: $id) {
+    id
+    name
+    air_date
+    episode
+  }
+}
+```
+
+- Replace `$id` with the desired episode ID when executing the query.
