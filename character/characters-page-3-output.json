@@ -1,1 +1,248 @@
-{"data":{"characters":{"results":[{"id":"41","name":"Big Boobed Waitress","status":"Alive","image":"https://rickandmortyapi.com/api/character/avatar/41.jpeg"},{"id":"42","name":"Big Head Morty","status":"unknown","image":"https://rickandmortyapi.com/api/character/avatar/42.jpeg"},{"id":"43","name":"Big Morty","status":"Dead","image":"https://rickandmortyapi.com/api/character/avatar/43.jpeg"},{"id":"44","name":"Body Guard Morty","status":"Dead","image":"https://rickandmortyapi.com/api/character/avatar/44.jpeg"},{"id":"45","name":"Bill","status":"Alive","image":"https://rickandmortyapi.com/api/character/avatar/45.jpeg"},{"id":"46","name":"Bill","status":"unknown","image":"https://rickandmortyapi.com/api/character/avatar/46.jpeg"},{"id":"47","name":"Birdperson","status":"Alive","image":"https://rickandmortyapi.com/api/character/avatar/47.jpeg"},{"id":"48","name":"Black Rick","status":"Alive","image":"https://rickandmortyapi.com/api/character/avatar/48.jpeg"},{"id":"49","name":"Blamph","status":"Alive","image":"https://rickandmortyapi.com/api/character/avatar/49.jpeg"},{"id":"50","name":"Blim Blam","status":"Alive","image":"https://rickandmortyapi.com/api/character/avatar/50.jpeg"},{"id":"51","name":"Blue Diplomat","status":"Alive","image":"https://rickandmortyapi.com/api/character/avatar/51.jpeg"},{"id":"52","name":"Blue Footprint Guy","status":"Dead","image":"https://rickandmortyapi.com/api/character/avatar/52.jpeg"},{"id":"53","name":"Blue Shirt Morty","status":"unknown","image":"https://rickandmortyapi.com/api/character/avatar/53.jpeg"},{"id":"54","name":"Bobby Moynihan","status":"Alive","image":"https://rickandmortyapi.com/api/character/avatar/54.jpeg"},{"id":"55","name":"Boobloosian","status":"Dead","image":"https://rickandmortyapi.com/api/character/avatar/55.jpeg"},{"id":"56","name":"Bootleg Portal Chemist Rick","status":"Dead","image":"https://rickandmortyapi.com/api/character/avatar/56.jpeg"},{"id":"57","name":"Borpocian","status":"Alive","image":"https://rickandmortyapi.com/api/character/avatar/57.jpeg"},{"id":"58","name":"Brad","status":"Alive","image":"https://rickandmortyapi.com/api/character/avatar/58.jpeg"},{"id":"59","name":"Brad Anderson","status":"Dead","image":"https://rickandmortyapi.com/api/character/avatar/59.jpeg"},{"id":"60","name":"Calypso","status":"Dead","image":"https://rickandmortyapi.com/api/character/avatar/60.jpeg"}]}}}
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "61",
+          "name": "Centaur Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+        },
+        {
+          "id": "62",
+          "name": "Chairface Chippendale",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+        },
+        {
+          "id": "63",
+          "name": "Chester",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+        },
+        {
+          "id": "64",
+          "name": "Cynthia",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/64.jpeg"
+        },
+        {
+          "id": "65",
+          "name": "Death Stalker Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/65.jpeg"
+        },
+        {
+          "id": "66",
+          "name": "Devil Rick",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/66.jpeg"
+        },
+        {
+          "id": "67",
+          "name": "Doofus Rick",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/67.jpeg"
+        },
+        {
+          "id": "68",
+          "name": "Evil Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/68.jpeg"
+        },
+        {
+          "id": "69",
+          "name": "Fart",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/69.jpeg"
+        },
+        {
+          "id": "70",
+          "name": "Frogbert",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/70.jpeg"
+        },
+        {
+          "id": "71",
+          "name": "Giant Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/71.jpeg"
+        },
+        {
+          "id": "72",
+          "name": "Gromflomite",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/72.jpeg"
+        },
+        {
+          "id": "73",
+          "name": "Hamster",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/73.jpeg"
+        },
+        {
+          "id": "74",
+          "name": "Headphone Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/74.jpeg"
+        },
+        {
+          "id": "75",
+          "name": "Ice Cream Sandwich Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/75.jpeg"
+        },
+        {
+          "id": "76",
+          "name": "Jailbird Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/76.jpeg"
+        },
+        {
+          "id": "77",
+          "name": "King Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/77.jpeg"
+        },
+        {
+          "id": "78",
+          "name": "Lawnmower Dog",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/78.jpeg"
+        },
+        {
+          "id": "79",
+          "name": "Little Bits",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/79.jpeg"
+        },
+        {
+          "id": "80",
+          "name": "Mr. Meeseeks",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/80.jpeg"
+        },
+        {
+          "id": "81",
+          "name": "Mr. Poopybutthole",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/81.jpeg"
+        },
+        {
+          "id": "82",
+          "name": "Mr. Robot",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/82.jpeg"
+        },
+        {
+          "id": "83",
+          "name": "Plumber",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/83.jpeg"
+        },
+        {
+          "id": "84",
+          "name": "President Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/84.jpeg"
+        },
+        {
+          "id": "85",
+          "name": "Rick 1",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/85.jpeg"
+        },
+        {
+          "id": "86",
+          "name": "Rick 2",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/86.jpeg"
+        },
+        {
+          "id": "87",
+          "name": "Rick 3",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/87.jpeg"
+        },
+        {
+          "id": "88",
+          "name": "Rick 4",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/88.jpeg"
+        },
+        {
+          "id": "89",
+          "name": "Rick 5",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/89.jpeg"
+        },
+        {
+          "id": "90",
+          "name": "Rick 6",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/90.jpeg"
+        },
+        {
+          "id": "91",
+          "name": "Rick 7",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/91.jpeg"
+        },
+        {
+          "id": "92",
+          "name": "Rick 8",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/92.jpeg"
+        },
+        {
+          "id": "93",
+          "name": "Rick 9",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/93.jpeg"
+        },
+        {
+          "id": "94",
+          "name": "Rick Sanchez",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/94.jpeg"
+        },
+        {
+          "id": "95",
+          "name": "Scary Terry",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/95.jpeg"
+        },
+        {
+          "id": "96",
+          "name": "Sleepy Gary",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/96.jpeg"
+        },
+        {
+          "id": "97",
+          "name": "Snuffles",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/97.jpeg"
+        },
+        {
+          "id": "98",
+          "name": "Squanchy",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/98.jpeg"
+        },
+        {
+          "id": "99",
+          "name": "The Citadel Guard",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/99.jpeg"
+        },
+        {
+          "id": "100",
+          "name": "The Council of Ricks",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/100.jpeg"
+        }
+      ]
+    }
+  }
+}
