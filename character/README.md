@@ -53,3 +53,40 @@ query GetCharacter {
   }
 }
 ```
+
+
+Query a List of All Characters (Paginated)
+
+Objective
+
+Write a GraphQL query to retrieve a paginated list of characters.
+
+Instructions
+	•	Use the characters(page: Int) field.
+	•	Fetch the following fields:
+	•	id
+	•	name
+	•	status
+	•	image
+	•	Run queries for pages 1, 2, 3, and 4.
+
+Files
+	•	characters-page-1.graphql → Query for characters on page 1.
+	•	characters-page-1-output.json → JSON response for page 1.
+	•	characters-page-2.graphql → Query for characters on page 2.
+	•	characters-page-2-output.json → JSON response for page 2.
+	•	characters-page-3.graphql → Query for characters on page 3.
+	•	characters-page-3-output.json → JSON response for page 3.
+	•	characters-page-4.graphql → Query for characters on page 4.
+	•	characters-page-4-output.json → JSON response for page 4.
+
+ query GetCharacters {
+  characters(page: 1) {
+    results {
+      id
+      name
+      status
+      image
+    }
+  }
+}
